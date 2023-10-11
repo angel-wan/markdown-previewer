@@ -2,8 +2,7 @@
 
 The Markdown Previewer is a web application that allows you to write and preview Markdown in real-time. It provides a user-friendly interface for composing and viewing Markdown documents with live rendering.
 
-![Markdown Previewer Screenshot](![image](https://github.com/angel-wan/markdown-previewer/assets/49020215/e08cf8fb-b78a-4fc6-a94e-841b3eabd1ba)
-)
+![Markdown Previewer Screenshot](![image](https://github.com/angel-wan/markdown-previewer/assets/49020215/e08cf8fb-b78a-4fc6-a94e-841b3eabd1ba))
 
 ## Features
 
