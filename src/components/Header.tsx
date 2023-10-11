@@ -20,14 +20,11 @@ const Button = styled.button`
   background-color: #d4af37;
   margin-right: 1em;
   color: #2a2b2e;
-  height: 2em;
   align-items: center;
-  font-size: 0.5em;
+  font-size: 16px;
   padding: 14px;
   text-align: center;
   display: grid;
-  height: 2.6em;
-  width: 16em;
   border-color: #d4af37;
   border-style: soild;
   outline: none;
